@@ -1,2 +1,2 @@
 # git_demo
-# Piyush S Khachane
+# Piyush Khachane
